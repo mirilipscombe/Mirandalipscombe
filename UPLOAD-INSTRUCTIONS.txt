@@ -1,0 +1,3 @@
+Replace index.html, style.css and site.js at the TOP LEVEL of your existing GitHub repository. Upload these three files together and commit the changes. Do not change the assets or project folders. The update preserves the current repository wording and styling.
+
+The social video row is between Selected work and About. All four videos request muted autoplay and loop independently. Repeated copies make the sideways scroll seamless. Hover/focus or the Pause scrolling button pauses movement, not videos. Mobile visitors can swipe. Reduced-motion preferences disable automatic scrolling. If the browser blocks autoplay, use Play all videos muted. Embedding/playback remains subject to YouTube and TikTok availability and browser policies.
