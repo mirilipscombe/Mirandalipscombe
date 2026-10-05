@@ -20,4 +20,8 @@
 .project-card .image-wrap {
   border-radius: 30px;
   overflow: hidden;
+} 
+.hero-image {
+  border-radius: 20px;
+  overflow: hidden;
 }
