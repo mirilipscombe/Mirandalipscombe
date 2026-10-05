@@ -33,3 +33,6 @@
 .project-tag {
   border-radius: 12px;
 }
+
+/* Portrait beneath the About title */
+.about .about-portrait { display: block; width: 100%; max-width: 360px; height: auto; object-fit: contain; border-radius: 20px; margin: 0 0 32px; }
