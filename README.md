@@ -1,4 +1,4 @@
-# Miranda Lipscombe — Portfolio
+# Miranda Lipscombe Portfolio
 
 A static website ready for GitHub Pages. No build tools or installation required.
 
