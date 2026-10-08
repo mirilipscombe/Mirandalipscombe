@@ -55,3 +55,6 @@
   font-style: italic;
   font-weight: 400;
 }
+
+/* Match the Behind the camera label to the italic serif styling */
+#about > .eyebrow { font-family: Georgia, serif; font-style: italic; font-weight: 400; text-transform: none; letter-spacing: normal; font-size: 20px; }
