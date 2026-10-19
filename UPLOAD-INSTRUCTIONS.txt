@@ -1,3 +1,1 @@
-Replace index.html, style.css and favicon.svg at the TOP LEVEL of your existing GitHub repository. Keep all assets, project folders and site.js. Commit changes and refresh after Pages publishes.
-
-The new shared stylesheet also restyles your project pages. The homepage preserves all current wording, videos, links, portrait and covers. The hero image now appears first, with the headline centred beneath it. White and pale grey surfaces, red accents, crisp square corners and architectural spacing replace the old dark/pink design.
+Upload all contents to the GitHub repository root, preserving folders. The homepage has embedded CSS/JS; project pages use retro-pages.css. Social videos scroll manually via scrollbar, swipe, touchpad or Previous/Next controls.
